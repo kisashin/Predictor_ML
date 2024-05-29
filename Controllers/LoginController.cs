@@ -14,5 +14,14 @@ namespace Predictor_ML.Controllers
         {
             return View();
         }
+        public ActionResult Admin()
+        {
+            return View();
+        }
+
+        public ActionResult Informes()
+        {
+            return View();
+        }
     }
 }
